@@ -36,7 +36,7 @@ The project uses credit card application data stored in `Approval.xlsx`. The dat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Credit-Card-Approval-Prediction.git
+git clone https://github.com/AnjaliiD/Credit-Card-Approval-Prediction.git
 cd Credit-Card-Approval-Prediction
 ```
 
@@ -73,10 +73,10 @@ The model is evaluated using:
 Credit-Card-Approval-Prediction/
 │
 ├── credit_card_approval.ipynb # Main Jupyter notebook with complete pipeline
-├── Approval.xlsx              # Dataset (not included in repo)
+├── Approval.xlsx              # Dataset (included in the repo)
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
-└── images/                    # Generated visualizations (optional)
+└── images/                    # Generated visualizations
 ```
 
 ## Workflow
