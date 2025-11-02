@@ -76,6 +76,7 @@ Credit-Card-Approval-Prediction/
 ├── Approval.xlsx              # Dataset (included in the repo)
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
+├── LICENSE                    # MIT License
 └── images/                    # Generated visualizations
 ```
 
